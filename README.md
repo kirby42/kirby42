@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kirby, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Kirby, an <a inkedin.com/in/kirby-southern-jr-9a16a6180>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
